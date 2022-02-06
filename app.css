@@ -1,0 +1,47 @@
+body {
+    background-image: linear-gradient(to bottom right, rgb(231, 231, 231), gray);
+}
+
+#new-production {
+    border: 5px solid rgb(231, 231, 231);
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-right: auto;
+    padding-left: 10px;
+    background-image: linear-gradient(to right, rgb(168, 140, 179), rgb(165, 12, 119));
+}
+#sub-text{
+    color: rgb(255, 255, 255);
+}
+
+#main-heading{
+    font-size: 60px;
+    color: rgb(46, 46, 46);
+    text-align: center;
+}
+
+li{
+    color: snow;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    opacity: 0.3;
+}
+
+#new-production-name{
+    width: 300px;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+}
+
+.container {
+    position: relative;
+  }
